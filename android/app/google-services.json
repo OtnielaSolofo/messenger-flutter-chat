@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594255736367",
+    "project_id": "messengerchat-63d42",
+    "storage_bucket": "messengerchat-63d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594255736367:android:665ddbdb0bd15fbdc320da",
+        "android_client_info": {
+          "package_name": "solofo.otniela.flutter_sample3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594255736367-k99vvo9vveijn6qaqbaselhnsrvpe087.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhVt1JRuijJ98K19KJt_Qe131AqMZWnV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594255736367-k99vvo9vveijn6qaqbaselhnsrvpe087.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
